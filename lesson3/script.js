@@ -88,3 +88,9 @@
 // }
 
 // getPriceSamsa(10000);
+
+
+// const number = function (son) {
+//      son * son;
+// }
+// console.log(number(10));
